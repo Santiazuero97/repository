@@ -1,4 +1,4 @@
-# app_fe
+# hec_fe
 
 ## Project setup
 ```
